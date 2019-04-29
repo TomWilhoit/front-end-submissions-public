@@ -100,6 +100,6 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Tom Wilhoit
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* https://github.com/TomWilhoit/Prework
+* https://github.com/TomWilhoit/Prework
+* https://repl.it/@TomWilhoit/TestyBustlingEngineers
